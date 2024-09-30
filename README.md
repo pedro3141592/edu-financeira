@@ -30,3 +30,4 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você instalou a librarie `<react-navigation>`.
 - Você instalou a librarie `<expo/vector-icons>`.
 - Você instalou a librarie `<react-native-safe-area-context>`.
+- Você instalou a librarie `<react-native-screens>`.
