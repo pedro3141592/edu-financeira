@@ -1,10 +1,10 @@
 # Educação Financeira
 
-![GitHub repo size](https://img.shields.io/github/repo-size/pedro3141592/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/pedro3141592/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/pedro3141592/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/pedro3141592/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/pedro3141592/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/pedro3141592/edu-financeira)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pedro3141592/edu-financeira)
+![GitHub contributors](https://img.shields.io/github/contributors/pedro3141592/edu-financeira)
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/pedro3141592/edu-financeira)
+![GitHub repo size](https://img.shields.io/github/repo-size/pedro3141592/edu-financeira)
 
 > Aplicação para gestão do fluxo financeiro do usuário, afim de que este possa melhor gerir seus ganhos e gastos.
 
